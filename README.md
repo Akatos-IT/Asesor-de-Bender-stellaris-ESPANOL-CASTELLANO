@@ -6,6 +6,8 @@ Listo para usar, se copia en la carpeta de mod de stellaris, ubicación:
 C:\Users\[TuNombreDeUsuario]\Documents\Paradox Interactive\Stellaris\mod
 
 (Si no existe la carpeta, creala.)
+
+Disponible para la v4.*
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ENGLISH
 # Bender-advisor-stellaris-SPANISH
@@ -16,3 +18,5 @@ Ready to use, copy it to the Stellaris mod folder, located here:
 C:\Users\[YourUsername]\Documents\Paradox Interactive\Stellaris\mod
 
 (If the folder doesn't exist, create it.)
+
+Avaible to v4.*
