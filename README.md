@@ -7,6 +7,8 @@ C:\Users\[TuNombreDeUsuario]\Documents\Paradox Interactive\Stellaris\mod
 
 (Si no existe la carpeta, creala.)
 
+Voy a añadir otra versión en la que los audios son más cortos y solo dan el aviso. 10/02/2026
+
 Disponible para la v4.*
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ENGLISH
